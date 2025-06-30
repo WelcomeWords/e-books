@@ -1,10 +1,7 @@
 #Sistema de Gestion de E-Books#
-
-Para poder descargar el archivo e-books.zip,luego de abrirlo clicar donde dice " view raw" para descargar el archivo.
-
 ##Descripcion General del Proyecto##
 
-Este es un sistema web para la gestion y préstamo de libros electronicos, desarrollado en Go. La aplicacion permite a los usuarios explorar un catalogo de libros, ver próximos lanzamientos, tomar libros prestado y devolverlos. Incluye un modulo de administracion para la gestion completa de usuarios y del inventario de libros.
+Este es un sistema web para la gestion y prestamo de libros electronicos, desarrollado en Go. La aplicacion permite a los usuarios explorar un catalogo de libros, ver próximos lanzamientos, tomar libros prestado y devolverlos. Incluye un modulo de administracion para la gestion completa de usuarios y del inventario de libros.
 
 ##Caracteristicas Principales##
 
@@ -36,7 +33,6 @@ Pasos para ejecutar el codigo
 ##Clonar el repositorio##
 
 Abre tu terminal y clona el repositorio del proyecto. Despues de clonarlo, navega a la carpeta del proyecto:
-
 
 ##Cambia al [URL_DE_TU_PC]
 ##Navega a la carpeta del proyecto
